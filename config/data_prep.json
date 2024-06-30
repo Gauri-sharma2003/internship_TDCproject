@@ -1,0 +1,26 @@
+{
+    "X_Columns":["THICKNESS","Process Route","Applications", "WIDTH",
+                "YS","UTS","EL","C", "MN", "S", "P", "SI", "AL", "N",
+                "TI", "B", "CR", "V", "NB", "MO"],
+    "Y_Column":[""],
+    "Nominal_Columns":[],
+    "Ordinal_Columns":[],
+    "Outlier_Columns":[],
+    "Test_Size":0.2,
+    "Process_Route":{
+        "C":"CAL Product",
+        "G":"CGL-GA Product",
+        "Z":"CGL-GI Product"
+    },
+    "Applications":{
+        "AU":"Automotive Internal",
+        "GN":"General Engineering",
+        "DR":"Drum,Bareels,Containers",
+        "FR":"Furnitures and Panels",
+        "TU":"Tubes",
+        "AX":"Automotive Exposed-OEM",
+        "EX":"Export",
+        "AP":"White Goods",
+        "ST":"Structural grade"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "Furnitures and Panels":"models/Application_Furnitures and Panels_model.pkl",
+    "Automotive Internal":"models/Application_Automotive Internal_model.pkl",
+    "Export":"models/Application_Export_model.pkl",
+    "Automotive Exposed-OEM":"models/Application_Automotive Exposed-OEM_model.pkl",
+    "White Goods":"models/Application_White Goods_model.pkl",
+    "General Engineering":"models/Application_General Engineering_model.pkl",
+    "Tubes":"models/Application_Tubes_model.pkl",
+    "Drum,Bareels,Containers":"models/Application_Drum,Bareels,Containers_model.pkl",
+    "Other":"models/Application_Other_model.pkl"
+}
